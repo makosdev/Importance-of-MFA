@@ -25,4 +25,4 @@ In conclusion, MFA is an important security measure that can significantly reduc
 ![MFA summary image](https://th.bing.com/th/id/R.a058dbee633943866a576942991f9a0a?rik=F7ZMkmNg%2bCR5LQ&pid=ImgRaw&r=0)
 
 ## Youtube Video
-[Video](yt.com)
+[Video](https://youtu.be/o06CBJdWJ0Q)
